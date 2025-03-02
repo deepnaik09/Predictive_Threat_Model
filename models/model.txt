@@ -1,0 +1,3 @@
+Here, the trained model will be stored as trained_model.pkl.
+The trained_model.pkl file is a demo file generated after running model_training.py. 
+These files can be deleted if you prefer to generate the model from scratch.

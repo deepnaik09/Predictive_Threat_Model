@@ -1,0 +1,7 @@
+All CSV files are demo files provided as examples
+
+ generated_data.csv is created by running data_generation.py. You can put your custom/real time data by renaminin it as generated_data.csv.
+ processed_data.csv is created by running data_preprocessing.py.  
+ featured_data.csv is created by running feature_engineering.py.  
+
+These files can be deleted if you prefer to generate the data from scratch.
